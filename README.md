@@ -1,1 +1,1 @@
-# Files for JavaScript 1 Module Asssignment 1
+# JavaScript 1 Module Asssignment 1
